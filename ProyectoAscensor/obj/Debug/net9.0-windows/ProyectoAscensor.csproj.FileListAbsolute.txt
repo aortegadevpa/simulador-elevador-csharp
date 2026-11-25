@@ -1,0 +1,17 @@
+C:\Users\angel\Desktop\ProyectoAscensor\ProyectoAscensor\ProyectoAscensor\bin\Debug\net9.0-windows\ProyectoAscensor.exe
+C:\Users\angel\Desktop\ProyectoAscensor\ProyectoAscensor\ProyectoAscensor\bin\Debug\net9.0-windows\ProyectoAscensor.deps.json
+C:\Users\angel\Desktop\ProyectoAscensor\ProyectoAscensor\ProyectoAscensor\bin\Debug\net9.0-windows\ProyectoAscensor.runtimeconfig.json
+C:\Users\angel\Desktop\ProyectoAscensor\ProyectoAscensor\ProyectoAscensor\bin\Debug\net9.0-windows\ProyectoAscensor.dll
+C:\Users\angel\Desktop\ProyectoAscensor\ProyectoAscensor\ProyectoAscensor\bin\Debug\net9.0-windows\ProyectoAscensor.pdb
+C:\Users\angel\Desktop\ProyectoAscensor\ProyectoAscensor\ProyectoAscensor\obj\Debug\net9.0-windows\ProyectoAscensor.Form1.resources
+C:\Users\angel\Desktop\ProyectoAscensor\ProyectoAscensor\ProyectoAscensor\obj\Debug\net9.0-windows\ProyectoAscensor.csproj.GenerateResource.cache
+C:\Users\angel\Desktop\ProyectoAscensor\ProyectoAscensor\ProyectoAscensor\obj\Debug\net9.0-windows\ProyectoAscensor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Desktop\ProyectoAscensor\ProyectoAscensor\ProyectoAscensor\obj\Debug\net9.0-windows\ProyectoAscensor.AssemblyInfoInputs.cache
+C:\Users\angel\Desktop\ProyectoAscensor\ProyectoAscensor\ProyectoAscensor\obj\Debug\net9.0-windows\ProyectoAscensor.AssemblyInfo.cs
+C:\Users\angel\Desktop\ProyectoAscensor\ProyectoAscensor\ProyectoAscensor\obj\Debug\net9.0-windows\ProyectoAscensor.csproj.CoreCompileInputs.cache
+C:\Users\angel\Desktop\ProyectoAscensor\ProyectoAscensor\ProyectoAscensor\obj\Debug\net9.0-windows\ProyectoAscensor.dll
+C:\Users\angel\Desktop\ProyectoAscensor\ProyectoAscensor\ProyectoAscensor\obj\Debug\net9.0-windows\refint\ProyectoAscensor.dll
+C:\Users\angel\Desktop\ProyectoAscensor\ProyectoAscensor\ProyectoAscensor\obj\Debug\net9.0-windows\ProyectoAscensor.pdb
+C:\Users\angel\Desktop\ProyectoAscensor\ProyectoAscensor\ProyectoAscensor\obj\Debug\net9.0-windows\ProyectoAscensor.genruntimeconfig.cache
+C:\Users\angel\Desktop\ProyectoAscensor\ProyectoAscensor\ProyectoAscensor\obj\Debug\net9.0-windows\ref\ProyectoAscensor.dll
+C:\Users\angel\Desktop\ProyectoAscensor\ProyectoAscensor\ProyectoAscensor\obj\Debug\net9.0-windows\Proyecto.D8C0C96F.Up2Date
