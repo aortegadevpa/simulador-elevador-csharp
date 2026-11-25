@@ -10,7 +10,7 @@ Aplicación de escritorio desarrollada en **C# (Windows Forms)** que simula en t
 
 | Estado en Espera (Detenido) | Desplazamiento Activo (Subiendo) | Control de Mantenimiento / Bloqueo |
 | :---: | :---: | :---: |
-| ![Ascensor Detenido](estado-detenido.png) | ![Ascensor Subiendo](estado-subiendo.png) | ![Modo Mantenimiento](estado-mantenimiento.png) |
+| ![Ascensor Detenido](capturas/estado-detenido.png) | ![Ascensor Subiendo](capturas/estado-subiendo.png) | ![Modo Mantenimiento](capturas/estado-mantenimiento.png) |
 
 ---
 
