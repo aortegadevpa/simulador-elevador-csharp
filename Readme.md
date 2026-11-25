@@ -2,7 +2,7 @@
 
 Aplicación de escritorio desarrollada en **C# (Windows Forms)** que simula en tiempo real el algoritmo de despacho y control de un ascensor de 11 niveles (Planta Baja 0 al Piso 10), aplicando generación dinámica de controles mediante arreglos, cálculo matemático de posiciones y planificación inteligente de rutas (algoritmo SCAN).
 
-🔗 **Portafolio Principal:** <https://aortegadevpa.github.io/>
+🔗 **Portafolio Principal:** <https://aortegadevpa.github.io/Portafolio/>
 
 ---
 
